@@ -1,4 +1,4 @@
-#dictionary
+dictionary
 最全的全世界字典导航网站
 ==========
 [字典导航网站，收录全世界几百个网站](https://nav.englishtest.info/) 
