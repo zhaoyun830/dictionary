@@ -1,13 +1,13 @@
 dictionary
 最全的全世界字典导航网站
 ==========
-[字典导航网站，收录全世界几百个网站](https://nav.englishtest.info/) 
+[免费牛津字典1](https://ozdic.englishtest.info/) 
 -----------------------------------
 [英文字典网站](https://dictionary.englishtest.info/)  
 -----------------------------------
 [Google在线字典](https://gdictchinese.freecollocation.com/)  
 -----------------------------------
-[免费牛津字典](https://www.freecollocation.com/)  
+[免费牛津字典2](https://www.freecollocation.com/)  
 -----------------------------------
 
 收录了不同国家的300多个常用的字典网站  
